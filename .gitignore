@@ -128,7 +128,7 @@ logs/
 others/
 /finetune_1536
 /submissions
-/result_analysis
+#/result_analysis
 work_dir/
 script/
 #*.csv
