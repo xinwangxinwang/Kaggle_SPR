@@ -1,0 +1,51 @@
+RSNA:
+  csv_dir: "RSNA-CSV"
+  image_dir: "RSNA-2022-Mammo/preprocessing/train"
+
+VinDr:
+  csv_dir: "VinDr-CSV"
+  image_dir: "vindr-mammo/preprocessing"
+
+EMBED:
+  csv_dir: "EMBED-CSV"
+  image_dir: "/embed_dataset/preprocessed-img-2048"
+
+CSAW:
+  csv_dir: "CSAW-CSV"
+  image_dir: "/CSAW-CC/preprocessed/img-2048/"
+
+CMMD:
+  csv_dir: "CMMD-CSV"
+  image_dir: "CMMD-data/preprocessed_CMMD_20230506"
+
+SPR:
+  csv_dir: "SPR-CSV"
+#  image_dir: "pngs/processed_png/"
+  image_dir: "spr_dataset/processed_png/processed_png/"
+
+rsna:
+  csv_dir: "RSNA-CSV"
+  image_dir: "RSNA-2022-Mammo/preprocessing/train"
+
+vindr:
+  csv_dir: "VinDr-CSV"
+  image_dir: "vindr-mammo/preprocessing"
+
+embed:
+  csv_dir: "EMBED-CSV"
+  image_dir: "/embed_dataset/preprocessed-img-2048"
+
+csaw:
+  csv_dir: "CSAW-CSV"
+  image_dir: "/CSAW-CC/preprocessed/img-2048/"
+
+cmmd:
+  csv_dir: "CMMD-CSV"
+  image_dir: "CMMD-data/preprocessed_CMMD_20230506"
+
+spr:
+  csv_dir: "SPR-CSV"
+#  image_dir: "pngs/processed_png/"
+  image_dir: "spr_dataset/processed_png/processed_png/"
+
+
